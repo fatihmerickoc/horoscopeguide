@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="burcAdlari">
+        <item>Aris</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpius</item>
+        <item>Zodyak</item>
+        <item>Capricornus</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+
+    <string-array name="burcTarihleri">
+        <item> 21 March- 20 April</item>
+        <item> 21 April- 21 May</item>
+        <item> 22 May - 22 June</item>
+        <item> 23 June- 22 July</item>
+        <item> 23 July- 22 August</item>
+        <item> 23 August- 22 September</item>
+        <item> 23 September- 22 October</item>
+        <item> 23 October- 21 November</item>
+        <item> 22 November- 21 December</item>
+        <item> 22 December- 21 January</item>
+        <item> 22 January- 19 February</item>
+        <item> 20 February- 20 March</item>
+    </string-array>
+
+
+    <string-array name="burcGenelOzellikler">
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+    \tElement: Fire\n\n
+    \tQuality: Cardinal\n\n
+    \tColor: Red\n\n
+    \tDay: Tuesday\n\n
+    \tRuler: Mars\n\n
+    \tGreatest Overall Compatibility: Libra, Leo\n\n
+    \tLucky Numbers: 1, 8, 17\n\n
+    \tDate range: March 21 - April 19\n\n
+    \tStrengths: Courageous, determined, confident, enthusiastic, optimistic, honest, passionate\n\n
+    \tWeaknesses: Impatient, moody, short-tempered, impulsive, aggressive\n\n
+    \tAries likes: Comfortable clothes, taking on leadership roles, physical challenges, individual sports\n\n
+    \tAries dislikes: Inactivity, delays, work that does not use ones talents  \n\n
+</item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+    \tElement: Earth\n\n
+    \tQuality: Fixed\n\n
+    \tColor: Green,Pink\n\n
+    \tDay: Friday,Monday\n\n
+    \tRuler: Venus\n\n
+    \tGreatest Overall Compatibility: Scorpio, Cancer\n\n
+    \tLucky Numbers: 2, 6, 9, 12, 24\n\n
+    \tDate range: April 20 - May 20\n\n
+    \tStrengths: Reliable, patient, practical, devoted, responsible, stable\n\n
+    \tWeaknesses: Stubborn, possessive, uncompromising\n\n
+    \Taurus likes:  Gardening, cooking, music, romance, high quality clothes, working with hands\n\n
+    \Taurus dislikes: Sudden changes, complications, insecurity of any kind, synthetic fabrics  \n\n
+</item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+\tElement: Air\n\n
+\tQuality: Mutable\n\n
+\tColor: Light-Green, Yellow\n\n
+\tDay: Wednesday\n\n
+\tRuler: Mercury\n\n
+\tGreatest Overall Compatibility: Sagittarius, Aquarius\n\n
+\tLucky Numbers: 5, 7, 14, 23\n\n
+\tStrengths: Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas\n\n
+\tWeaknesses: Nervous, inconsistent, indecisive\n\n
+\tGemini likes: Music, books, magazines, chats with nearly anyone, short trips around the town\n\n
+\tGemini dislikes: Being alone, being confined, repetition and routine\n\n
+</item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+\tElement: Water\n\n
+\tQuality: Cardinal\n\n
+\tColor: White\n\n
+\tDay: Monday, Thursday\n\n
+\tRuler: Moon\n\n
+\tGreatest Overall Compatibility: Capricorn, Taurus\n\n
+\tLucky Numbers: 2, 3, 15, 20\n\n
+\tStrengths: Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive\n\n
+\tWeaknesses: Moody, pessimistic, suspicious, manipulative, insecure\n\n
+\tCancer likes: Art, home-based hobbies, relaxing near or in water, helping loved ones, a good meal with friends\n\n
+\tCancer dislikes: Strangers, any criticism of Mom, revealing of personal life\n\n
+</item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+\tElement: Fire\n\n
+\tQuality: Fixed\n\n
+\tColor: Gold, Yellow, Orange\n\n
+\tDay: Sunday\n\n
+\tRuler: Sun\n\n
+\tGreatest Overall Compatibility: Aquarius, Gemini\n\n
+\tLucky Numbers: 1, 3, 10, 19\n\n
+\tDate range: July 23 - August 22\n\n
+\tStrengths: Creative, passionate, generous, warm-hearted, cheerful, humorous\n\n
+\tWeaknesses: Arrogant, stubborn, self-centered, lazy, inflexible\n\n
+\tLeo likes: Theater, taking holidays, being admired, expensive things, bright colors, fun with friends\n\n
+\tLeo dislikes: Being ignored, facing difficult reality, not being treated like a king or queen\n\n
+
+        </item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+
+        \tElement: Earth\n\n
+        \tQuality: Mutable\n\n
+        \tColor: Grey, Beige, Pale-Yellow\n\n
+        \tDay: Wednesday\n\n
+        \tRuler: Mercury\n\n
+        \tGreatest Overall Compatibility: Pisces, Cancer\n\n
+        \tLucky Numbers: 5, 14, 15, 23, 32\n\n
+        \tStrengths: Loyal, analytical, kind, hardworking, practical\n\n
+        \tWeaknesses: Shyness, worry, overly critical of self and others, all work and no play\n\n
+        \tVirgo likes: Animals, healthy food, books, nature, cleanliness\n\n
+         \t Virgo dislikes: Rudeness, asking for help, taking center stage\n\n
+
+    </item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+        \tElement: Air\n\n
+        \tQuality: Cardinal\n\n
+        \tColor: Pink, Green\n\n
+        \tDay: Friday\n\n
+        \tRuler: Venus\n\n
+        \tGreatest Overall Compatibility: Aries, Sagittarius\n\n
+        \tLucky Numbers: 4, 6, 13, 15, 24\n\n
+        \tStrengths: Cooperative,diplomatic, gracious, fair-minded, social\n\n
+        \tWeaknesses: Indecisive, avoids confrontations, will carry a grudge, self-pity\n\n
+        \tLibra likes: Harmony, gentleness, sharing with others, the outdoors\n\n
+         \tLibra dislikes: Violence, injustice, loudmouths, conformity\n\n
+
+</item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+
+           \tElement: Water\n\n
+        \tQuality: Fixed\n\n
+        \tColor: Scarlet, Red, Rust\n\n
+        \tDay: Tuesday\n\n
+        \tRuler: Pluto, Mars\n\n
+        \tGreatest Overall Compatibility:  Taurus, Cancer\n\n
+        \tLucky Numbers: 8, 11, 18, 22\n\n
+        \tStrengths: Resourceful, brave, passionate, stubborn, a true friend\n\n
+        \tWeaknesses:Distrusting, jealous, secretive, violent\n\n
+        \tScorpio likes: Truth, facts, being right, longtime friends, teasing, a grand passion\n\n
+         \tScorpio dislikes: Violence, injustice, loudmouths, conformity\n\n
+
+    </item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+         \tElement: Fire\n\n
+        \tQuality: Mutable\n\n
+        \tColor: Blue\n\n
+        \tDay: Thursday\n\n
+        \tRuler: Jupiter\n\n
+        \tGreatest Overall Compatibility:  Gemini, Aries\n\n
+        \tLucky Numbers: 3, 7, 9, 12, 21\n\n
+        \tStrengths: Generous, idealistic, great sense of humor\n\n
+        \tWeaknesses:Promises more than can deliver, very impatient, will say anything no matter how undiplomatic\n\n
+        \tZodyak likes: Freedom, travel, philosophy, being outdoors\n\n
+         \tZodyak dislikes: Clingy people, being constrained, off-the-wall theories, details\n\n
+
+    </item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+     \tElement: Earth\n\n
+        \tQuality: Cardinal\n\n
+        \tColor: Brown, Black\n\n
+        \tDay: Saturday\n\n
+        \tRuler: Saturn\n\n
+        \tGreatest Overall Compatibility:  Taurus, Cancer\n\n
+        \tLucky Numbers: 4, 8, 13, 22\n\n
+        \tStrengths: Responsible, disciplined, self-control, good managers\n\n
+        \tWeaknesses:Know-it-all, unforgiving, condescending, expecting the worst\n\n
+        \tCapricornus likes: Family, tradition, music, understated status, quality craftsmanship\n\n
+         \tCapricornus dislikes: Almost everything at some point\n\n
+    </item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+         \tElement: Air\n\n
+        \tQuality: Fixed\n\n
+        \tColor: Light-Blue, Silver\n\n
+        \tDay: Saturday\n\n
+        \tRuler: Uranus, Saturn\n\n
+        \tGreatest Overall Compatibility: Leo, Sagittarius\n\n
+        \tLucky Numbers: 4, 7, 11, 22, 29\n\n
+        \tStrengths: Progressive, original, independent, humanitarian\n\n
+        \tWeaknesses:Runs from emotional expression, temperamental, uncompromising, aloof\n\n
+        \tAquarius likes: Fun with friends, helping others, fighting for causes, intellectual conversation, a good listener\n\n
+         \tAquarius dislikes: Limitations, broken promises, being lonely, dull or boring situations, people who disagree with them\n\n
+    </item>
+
+        <item>\t\t\t\t\t\t\t\t\t\t\t\tGeneral  Informations\n\n
+  \tElement: Water\n\n
+        \tQuality: Mutable\n\n
+        \tColor: Mauve, Lilac, Purple, Violet, Sea green\n\n
+        \tDay: Thursday\n\n
+        \tRuler: Neptune, Jupiter\n\n
+        \tGreatest Overall Compatibility: Virgo, Taurus\n\n
+        \tLucky Numbers: 3, 9, 12, 15, 18, 24\n\n
+        \tStrengths: Compassionate, artistic, intuitive, gentle, wise, musical\n\n
+        \tWeaknesses:Fearful, overly trusting, sad, desire to escape reality, can be a victim or a martyr\n\n
+        \tPisces likes: Being alone, sleeping, music, romance, visual media, swimming, spiritual themes\n\n
+         \tPisces dislikes: Know-it-all, being criticized, the past coming back to haunt, cruelty of any kind\n\n
+    </item>
+
+    </string-array>
+
+
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+
+
+
+
+</resources>
